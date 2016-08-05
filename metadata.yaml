@@ -1,0 +1,36 @@
+_repo: Light-O-the-Morning--The-Story-of-an-Irish-Girl_7231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Thomas, Elizabeth
+    - Meade, Mrs. L. T.
+    - Meade, Lillie
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Mead, L. T.
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: The sprited daughter of an impoverished Irish nobleman attempts to save
+  her family home through appealing to her wealthy English relatives.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Ireland -- Juvenile fiction'
+- !lcsh 'Ireland -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aristocracy (Social class) -- Ireland -- Juvenile fiction'
+- GITenberg
+title: 'Light O'' the Morning: The Story of an Irish Girl'
+url: http://www.gutenberg.org/ebooks/7231
