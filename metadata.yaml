@@ -1,5 +1,8 @@
 _repo: Light-O-the-Morning--The-Story-of-an-Irish-Girl_7231
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meade, L. T.
@@ -17,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: The sprited daughter of an impoverished Irish nobleman attempts to save
   her family home through appealing to her wealthy English relatives.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7231#Light-O-the-Morning--The-Story-of-an-Irish-Girl
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
